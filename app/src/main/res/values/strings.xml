@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P08 Google Maps PS</string>
+    <string-array name="entries">
+        <item>All</item>
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
